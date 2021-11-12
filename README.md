@@ -3,4 +3,6 @@
 - 🌱 I’m currently studying a Bachelors of Computing Systems at Unitec
 - 📫 How to reach me: email at athena536@hotmail.com
 
-See my current web development project here: https://risktuit.herokuapp.com/
+See my recent web development projects here: 
+1. Risktuit a Risk Management tool https://risktuit.herokuapp.com/
+2. Bubbles a neighbourhood/bubble-specific event organising tool https://bubbles-by-tam.herokuapp.com/
