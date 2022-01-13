@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Athena Gardner
 - 👀 I’m interested in game, software or web development and testing.
-- 🌱 I’m recently completed a Bachelor of Computing Systems at Unitec
+- 🌱 I’ve recently completed a Bachelor of Computing Systems at Unitec
 - 📫 How to reach me: email at athena536@hotmail.com
 
 See my recent web development projects here: 
